@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/game/static/css/main.cd508da2.chunk.css",
-    "main.js": "/game/static/js/main.5cb35fd2.chunk.js",
-    "main.js.map": "/game/static/js/main.5cb35fd2.chunk.js.map",
+    "main.css": "/game/static/css/main.67c6c81d.chunk.css",
+    "main.js": "/game/static/js/main.a89d1943.chunk.js",
+    "main.js.map": "/game/static/js/main.a89d1943.chunk.js.map",
     "runtime~main.js": "/game/static/js/runtime~main.2d0fbc73.js",
     "runtime~main.js.map": "/game/static/js/runtime~main.2d0fbc73.js.map",
     "static/js/2.b8a7688f.chunk.js": "/game/static/js/2.b8a7688f.chunk.js",
     "static/js/2.b8a7688f.chunk.js.map": "/game/static/js/2.b8a7688f.chunk.js.map",
     "index.html": "/game/index.html",
-    "precache-manifest.75e9d4b92e27535c6e311b50fff229a2.js": "/game/precache-manifest.75e9d4b92e27535c6e311b50fff229a2.js",
+    "precache-manifest.dc712a4202e16810e9aa198d511faf50.js": "/game/precache-manifest.dc712a4202e16810e9aa198d511faf50.js",
     "service-worker.js": "/game/service-worker.js",
-    "static/css/main.cd508da2.chunk.css.map": "/game/static/css/main.cd508da2.chunk.css.map",
+    "static/css/main.67c6c81d.chunk.css.map": "/game/static/css/main.67c6c81d.chunk.css.map",
     "static/media/App.css": "/game/static/media/antique-backdrop-background-129731.8034d35f.jpg"
   }
 }
