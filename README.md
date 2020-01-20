@@ -3,3 +3,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### The Game
 
 Simple React app for React component/container practice.
+
+Live version on https://sergeysh93.github.io/game
